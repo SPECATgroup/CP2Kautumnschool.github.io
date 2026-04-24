@@ -10,7 +10,7 @@ humandate: "October 14-16, 2026"    # human-readable dates for the workshop (e.g
 #humantime: "11:00 am - 5:00 pm EDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 #startdate: 2021-06-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 #enddate: 2021-06-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Mario Barbatti", "Philipp Schienbein", "Anna Hehn", ]
+instructor: ["Mario Barbatti", "Philipp Schienbein", "Anna Hehn" ]
 #"Sudhakar Pamidighantam",
 #             "Ivan Infante",  "Felipe Zapata", "Sergei Tretiak", "Walter Malone", 
 #             "Mario Barbatti", "Ljiljana Stojanovic", "Hans Lischka", "Amber Jain", "Aiichiro Nakano"]  # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
