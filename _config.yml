@@ -6,7 +6,7 @@ title: International Autumn School
 email: specathehn@gmail.com
 url: https://CP2Kautumnschool.github.io/
 description: >- # this means to ignore newlines until "baseurl:"
-"This 3-day autumn school focuses on mixed quantum-classical molecular dynamics using CP2K, Newton-X and WaveMixings on High-Performance Computing (HPC) cluster systems."
+ This 3-day autumn school focuses on mixed quantum-classical molecular dynamics using CP2K, Newton-X and WaveMixings on High-Performance Computing (HPC) cluster systems.
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
@@ -19,14 +19,12 @@ theme: minima
 #  - jekyll-feed
 
 collections:
-  team:
+  schedule:
     output: true
     permalink: /:collection/:name
-  publications:
+  venue:
     output: false
-  news:
-    output: false
-  gallery:
+  registration:
     output: false
 # Exclude from processing.
 # The following items will not be processed, by default.
