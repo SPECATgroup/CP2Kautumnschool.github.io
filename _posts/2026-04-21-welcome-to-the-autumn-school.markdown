@@ -1,14 +1,17 @@
 ---
 layout: default
+categories: [news]
 modal-id: 1
-date: 2026-04-25
+#date: 2026-04-25
 color-bg:
-displayimg: CP2K_Newton_X_Wavemixings_Logo.png
+displayimg: "https://github.com/SPECATgroup/CP2Kautumnschool.github.io/images/CP2K_Newton_X_Wavemixings_Logo.png"
 #displaytitle: 
 #img:
 #alt: 
 #title: 
 #category: 
+link_descr: "https://www.cecam.org/workshop-details/beyond-ground-state-simulations-navigating-challenges-in-excited-states-of-extended-molecules-and-materials-1285"
+
 #team: n.a.
 #project: n.a.
 further-link:
