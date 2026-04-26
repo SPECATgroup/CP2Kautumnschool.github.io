@@ -5,15 +5,9 @@ permalink: /registration/
 ---
 ![Alt text]({{ "/images/logo.png" | relative_url }})
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Registration
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Registration is <a href="https://docs.google.com/forms/d/1nFZT4d2HzpynXbHAE5N_bu-hD8Jp9S20ROLkLkGQ_YY/">open</a> on a first-come, first-served basis. Please complete the <a href="https://docs.google.com/forms/d/1nFZT4d2HzpynXbHAE5N_bu-hD8Jp9S20ROLkLkGQ_YY/">**registration form**</a>.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The event is funded by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU fund for Internationalisation</a>, providing limited financial support of participants. To apply for financial support, please submit a brief letter of motivation, an abstract for your poster contribution and a short resume. Please comment on your current research interests and the expected benefit to be gained by participating in this autumn school.  
 
-
-[jekyll-organization]: https://github.com/jekyll

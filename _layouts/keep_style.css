@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+ 
+.logo img {/*  width: 100%; */
+  /* height: auto; */
+  display: block;
+  /* width: 100vw;      /* full viewport width */
+  width: 500%;
+  height: 400px;
+  margin-left: calc(-50vw + 50%); 
+} 
+
+body {
+  background-color: #ABE994; /* change to any color you want */
+}
