@@ -62,6 +62,14 @@ The current schedule may be changed. Please check for updates.
 | [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
 
 
+## Resources
+
+| Software | Links |
+|----------|-------|
+| Newton-X | [Official website](https://newtonx.org/) | [Tutorials](https://osf.io/w4dkc/)  | [Manual](https://www.univie.ac.at/newtonx/nx-docs-2_2.pdf) |
+| CP2k | [Official website](https://www.cp2k.org/) | [Tutorials](https://www.cp2k.org/exercises:common:index) |[Manual](https://manual.cp2k.org/trunk/) |
+
+
 ## Venue
 
 The autumn school will take place at the <a href="https://wissenschaftszentrumkiel.de">Wissenschaftszentrum</a> in Kiel, Fraunhoferstrasse 13, 24118 Kiel.  
