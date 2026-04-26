@@ -36,6 +36,8 @@ dynamics, summarized by the following keywords:
 
 ## Registration
 
+**The international autumn school will take place in Kiel, Germany, from October 14 to 16, 2026.**
+
 **Registration is <a href="https://docs.google.com/forms/d/1nFZT4d2HzpynXbHAE5N_bu-hD8Jp9S20ROLkLkGQ_YY/">open</a>** on a first-come, first-served basis. 
 This course is free of cost for members of German universities or publicly-funded research institutions. Please register the course using your university/institutional e-mail address.
 
@@ -49,32 +51,15 @@ The current schedule may be changed. Please check for updates.
 
 ## Our team
 
-| Name            | Affiliation         |    Role/Software covered   |
-| --------------- | ------------------- | -------------------------- |
-| [Mario Barbatti](https://akimovlab.github.io/)         |   University at Buffalo, USA      | Workshop coordinator, Instructor for: **Libra, DFTB+, ErgoSCF, CP2k, QXMD, etc.** |
-| [Ms. Jeanette Sperhac](http://www.buffalo.edu/ccr/about-us/people/staff/sperhac.html)      |   University at Buffalo Center for Computational Research, USA  | Workshop coordinator, Instructor for: **Jupyter, Open OnDemand, UB CCR HPC** |
-| [Dr. Sudhakar Pamidighantam](https://www.chem.indiana.edu/faculty/sudhakar-pamidighantam/)  | Indiana University, USA  | Instructor for: **SEAGrid platform** |
-| [Dr. Sergei Tretiak](https://cnls.lanl.gov/~serg/homepage.html) | Los Alamos National Laboratory, USA | Instructor for: **NEXMD** |
-| [Dr. Walter Malone](https://cnls.lanl.gov/External/people/Walter_Malone.php) | Los Alamos National Laboratory, USA | Instructor for: **NEXMD** |
-| [Dr. Ivan Infante](https://iinfant76.wixsite.com/infantelab) | Istituto Italiano di Tecnologia, Italy | Instructor for: **CAT, FOX, nano-qmflows, CP2k** |
-| [Dr. Felipe Zapata](https://www.linkedin.com/in/felipe-zapata/?originalSubdomain=nl) | Netherlands eScience Center, Netherlands | Instructor for: **CAT, FOX, nano-qmflows, CP2k** |
-| [Dr. Hans Lischka](https://homepage.univie.ac.at/hans.lischka/) | Texas Tech University | Instructor for: **COLUMBUS, Newton-X** |
-| [Dr. Mario Barbatti](https://barbatti.org/) | Aix-Marseille University, France | Instructor for: **Newton-X, DFTB+** |
-| [Dr. Ljiljana Stojanovic](https://iris.ucl.ac.uk/iris/browse/profile?upi=LSTOJ81) | University College London, UK | Instructor for **Newton-X, DFTB+** |
-| [Dr. Amber Jain](https://amberj74.wixsite.com/quantumdynamics/amber-jain-1) | Indian Institute of Technology, India  | Instructor: **HEOM (in Libra)** |
-| [Dr. Aiichiro Nakano](https://viterbi.usc.edu/directory/faculty/Nakano/Aiichiro) | University of Southern California, USA  |  Instructor for: **QXMD** |
-
-
-### Our co-instructors/helpers
-
-| Name            | Affiliation         |    Role/Software covered   |
-| --------------- | ------------------- | -------------------------- |
-| Mr. Mohammad Shakiba   |  Shahid Bahonar University of Kerman, Iran   | Co-instructor for: **CP2k, Libra/CP2k** |
-| Mr. Bas van Been  |  Vrije Universiteit Amsterdam, The Netherlands  | Co-instructor for: **CAT, FOX, nano-qmflows** |
-| Ms. Juliette Zito  |  Istituto Italiano di Tecnologia, Italy  | Co-instructor for: **CAT, FOX, nano-qmflows** |
-| Ms. Roberta Pascazio | Istituto Italiano di Tecnologia, Italy | Co-instructor for **CAT, FOX** | 
-| Dr. Reed Nieman | Texas Tech University, USA | Co-instructor for **COLUMBUS** |
-| Mr. Thomas Linker | University of Southern California, USA  |  Co-instructor for: **QXMD** |
+| Name            | Affiliation         |
+| --------------- | ------------------- |
+| [Prof. Mario Barbatti](https://barbatti.org/about/) | University Aix-Marseille, France |
+| [Dr. Philipp Schienbein](https://schienbein.eu) | Ruhr-University Bochum, Germany |
+| [Dr. Ritama Kar](https://barbatti.org/about/)      |   University Aix-Marseille, France (Group M. Barbatti) |
+| [Dr. Rafael S. Mattos ](https://barbatti.org/about/)   | University Aix-Marseille, France (Group M. Barbatti) |
+| [Dr. Stepan Marek](https://www.uni-regensburg.de/en/physics/wg/computational-electronic-structure-theory/team/stepan-marek) | University Regensburg, Germany (Group J. Wilhelm) |
+| [Dr. Luis Vasquez](https://scholar.google.com/citations?user=KG6dxGcAAAAJ&hl=en) | Hangzhou Dianzi University, China (Group M. Gelin) |
+| [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
 
 
 ## Venue
