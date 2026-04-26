@@ -14,6 +14,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  SPECATgroup
 
+
+#![Alt text]({{ "/images/CP2K_Newton_X_Wavemixings_Logo.png" | relative_url }})
 # Build settings
 theme: minima
 #plugins:
