@@ -17,8 +17,9 @@ dynamics, summarized by the following keywords:
 - (Non-)adiabatic molecular dynamics
 - Excited states
 - Quantum-classical dynamics
-- Trajectory surface hopping
+- Trajectory surface hopping, Ehrenfest dynamics
 - Time-dependent density functional theory
+- Bethe-Salpeter equation, GW
 - Machine learning
 - High-performance computing
 
