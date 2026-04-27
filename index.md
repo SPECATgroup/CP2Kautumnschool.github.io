@@ -117,6 +117,6 @@ Display the contact email address set in the configuration file.
   <a href='mailto:{{email}}'>{{email}}</a>
   {% endfor %}
   {% else %}
-  to-be-announced
+  hehn@pctc.uni-kiel.de ; specathehn@gmail.com
   {% endif %}
   for more information.
