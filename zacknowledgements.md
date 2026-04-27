@@ -7,7 +7,7 @@ root: .
 
 We gratefully acknowledge support by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU funds for internationalisation</a>. 
 
-![Alt text]({{ "/images/cau_logo.png" | relative_url }})
+![Alt text]({{ "/images/cau_logo_small.png" | relative_url }})
 
 ![Alt text]({{ "/images/Kinsis_logo.png" | relative_url }})
 
