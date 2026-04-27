@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Schedule
 permalink: /schedule/
 ---
 ![Alt text]({{ "/images/logo.png" | relative_url }})
