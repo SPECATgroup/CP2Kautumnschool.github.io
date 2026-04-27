@@ -13,7 +13,8 @@ layout: page
 #googleform: https://docs.google.com/forms/d/1nFZT4d2HzpynXbHAE5N_bu-hD8Jp9S20ROLkLkGQ_YY
 
 <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
-<img src="/images/logo.png" width="125%">
+<!-- <img src="/images/logo.png" width="125%"> -->
+![Alt text]({{ "/images/logo.png" | relative_url }})
 
 
 ## **International Autumn School CP2K-Newton-X-WaveMixings for mixed classical-quantum dynamics**
@@ -102,8 +103,8 @@ The number of seats and poster presentation slots are limited and the allocation
 
 We gratefully acknowledge support by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU funds for internationalisation</a>. 
 
-<img src="/images/cau_logo.png" width="45%">
-![Alt text]({{ "/images/kinsis_logo.png" | relative_url }})
+![Alt text]({{ "/images/cau_logo_smaller.png" | relative_url }}) ![Alt text]({{ "/images/Kinsis_logo_smaller.png" | relative_url }})
+<!-- <img src="/images/cau_logo.png" width="45%"> ![Alt text]({{ "/images/kinsis_logo.png" | relative_url }}) -->
 
 ## Contact
 
