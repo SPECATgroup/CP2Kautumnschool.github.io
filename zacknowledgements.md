@@ -10,7 +10,7 @@ We gratefully acknowledge support by the <a href="https://www.international.uni-
 ![Alt text]({{ "/images/cau_logo.png" | relative_url }})
 <!-- <img src="/images/cau_logo.png" width="45%"> -->
 
-![Alt text]({{ "/images/kinsis_logo.png" | relative_url }})
+![Alt text]({{ "/images/Kinsis_logo.png" | relative_url }})
 <!-- <img src="/images/kinsis_logo.png" width="45%"> -->
 <!-- ![Alt text]({{ "/images/kinsis_logo.png" | relative_url }}) -->
 
