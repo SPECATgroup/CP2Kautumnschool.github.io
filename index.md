@@ -11,8 +11,8 @@ instructors: ["Mario Barbatti"]
 email: ["hehnspecat@gmail.com"] 
 googleform: https://docs.google.com/forms/d/1nFZT4d2HzpynXbHAE5N_bu-hD8Jp9S20ROLkLkGQ_YY
 ---
-<img src="/images/logo.png" width="125%">
 <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+<img src="/images/logo.png" width="125%">
 
 
 ## **International Autumn School CP2K-Newton-X-WaveMixings for mixed classical-quantum dynamics**
