@@ -1,9 +1,9 @@
+![Alt text]({{ "/images/logo.png" | relative_url }})
 ---
 layout: page
 title: About 
 permalink: /about/
 ---
-![Alt text]({{ "/images/logo.png" | relative_url }})
 
 This autumn schools aims to give an overview on (non-)adiabatic mixed excited-state dynamics using the program packages
 <a href="https://www.cp2k.org">**CP2K**</a>, <a href="https://newtonx.org">**Newton-X**</a> and <a href="https://gitlab.com/apolionl/WaveMixings.jl">**WaveMixings**</a> to educate graduate students, postdocs, researchers, and educators working in
