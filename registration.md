@@ -3,6 +3,7 @@ layout: page
 title: Registration
 permalink: /registration/
 ---
+<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 ![Alt text]({{ "/images/logo.png" | relative_url }})
 
 **The international autumn school will take place in Kiel, Germany, from October 14 to 16, 2026.**

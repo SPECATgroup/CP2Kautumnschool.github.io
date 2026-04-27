@@ -3,6 +3,7 @@ layout: page
 title: Venue
 permalink: /venue/
 ---
+<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 ![Alt text]({{ "/images/logo.png" | relative_url }})
 
 The autumn school will take place at the <a href="https://wissenschaftszentrumkiel.de">Wissenschaftszentrum</a> in Kiel, Fraunhoferstrasse 13, 24118 Kiel.

@@ -83,7 +83,7 @@ If you need further information about travel and accommodation, feel free to con
 ## Repository / Videos
 
 All lecture material and video recordings will be provided via the <a href="https://www.youtube.com/kieluni">youtube channel of the Christian-Albrechts-University Kiel</a>.
-Lecture material for the hands-on sessions will be provided via the <a href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">autumn school's Gitlab account</a>.
+Lecture material for the hands-on sessions will be provided via the <a href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">autumn school's Gitlab account</a> as well as via the corresponding <a href=" ">Github repository</a>.
 
 ## Additional information
 
