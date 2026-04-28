@@ -30,7 +30,8 @@ dynamics, summarized by the following keywords:
 
 ## Registration
 
-**The international autumn school will take place in Kiel, Germany, from October 14 to 16, 2026.**
+**The international autumn school will take place in Kiel, Germany, from October 14 to 16, 2026. We will also provide
+the option to participate in the autumn school remotely.**
 
 **Registration is <a href="https://docs.google.com/forms/d/1nFZT4d2HzpynXbHAE5N_bu-hD8Jp9S20ROLkLkGQ_YY/">open</a>** on a first-come, first-served basis. 
 This course is free of cost for members of German universities or publicly-funded research institutions. Please register the course using your university/institutional e-mail address.
@@ -54,6 +55,7 @@ The current schedule may be changed. Please check for updates.
 | [Dr. Stepan Marek](https://www.uni-regensburg.de/en/physics/wg/computational-electronic-structure-theory/team/stepan-marek) | University Regensburg, Germany (Group J. Wilhelm) |
 | [Dr. Luis Vasquez](https://scholar.google.com/citations?user=KG6dxGcAAAAJ&hl=en) | Hangzhou Dianzi University, China (Group M. Gelin) |
 | [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
+| [Dr. Ole Sch√tt](https://ole.schuett.name) | CP2KLab, Zurich, Switzerland |
 
 
 ## Ressources
