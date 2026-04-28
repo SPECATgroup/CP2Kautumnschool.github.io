@@ -52,7 +52,7 @@ The current schedule may be changed. Please check for updates.
 | [Dr. Philipp Schienbein](https://schienbein.eu) | Ruhr-University Bochum, Germany |
 | [Dr. Ritama Kar](https://barbatti.org/about/)      |   University Aix-Marseille, France (Group M. Barbatti) |
 | [Dr. Rafael S. Mattos ](https://barbatti.org/about/)   | University Aix-Marseille, France (Group M. Barbatti) |
-| [Dr. Stepan Marek](https://www.uni-regensburg.de/en/physics/wg/computational-electronic-structure-theory/team/stepan-marek) | University Regensburg, Germany (Group J. Wilhelm) |
+| [Dr. Stepán Marek](https://www.uni-regensburg.de/en/physics/wg/computational-electronic-structure-theory/team/stepan-marek) | University Regensburg, Germany (Group J. Wilhelm) |
 | [Dr. Luis Vasquez](https://scholar.google.com/citations?user=KG6dxGcAAAAJ&hl=en) | Hangzhou Dianzi University, China (Group M. Gelin) |
 | [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
 | [Dr. Ole Schütt](https://ole.schuett.name) | CP2KLab, Zurich, Switzerland |
