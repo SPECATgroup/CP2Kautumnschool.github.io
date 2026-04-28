@@ -11,8 +11,8 @@ layout: page
 
 ## About the Autumn School
 
-This autumn schools aims to give an overview on (non-)adiabatic mixed excited-state dynamics using the program packages
-<a href="https://www.cp2k.org">**CP2K**</a>, <a href="https://newtonx.org">**Newton-X**</a> and <a href="https://gitlab.com/apolionl/WaveMixings.jl">**WaveMixings**</a> to educate graduate students, postdocs, researchers, and educators working in
+This autumn schools aims to give an overview on (non-)adiabatic mixed quantum-classical (excited-state) dynamics using the program packages
+<a href="https://www.cp2k.org">**CP2K**</a>, <a href="https://newtonx.org">**Newton-X**</a> and <a href="https://gitlab.com/apolionl/WaveMixings.jl">**WaveMixings**</a> to educate graduate students, postdocs, researchers, and educators working in the field of
 computational chemistry. 
 Focus of the autumn school is to complement **expert-led lectures** covering the underlying theory with practical **hands-on training** on cutting-edge HPC systems. Participants will be given the opportunity to present own research and network with leading scientists during the **poster session**. 
 
