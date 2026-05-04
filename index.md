@@ -4,7 +4,7 @@ layout: page
 
 <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 <!-- <img src="/images/logo.png" width="125%"> -->
-![Alt text]({{ "/images/logo.png" | relative_url }})
+![Alt text]({{ "/images/new_logo.png" | relative_url }})
 
 
 ## **International Autumn School CP2K-Newton-Libra-X-WaveMixings for mixed classical-quantum dynamics**

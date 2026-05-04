@@ -4,7 +4,7 @@ title: "Acknowledgements"
 root: .
 ---
 <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
-![Alt text]({{ "/images/logo.png" | relative_url }})
+![Alt text]({{ "/images/new_logo.png" | relative_url }})
 
 We gratefully acknowledge support by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU funds for internationalisation</a>. 
 
