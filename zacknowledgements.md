@@ -18,15 +18,8 @@ We gratefully acknowledge support by the <a href="https://www.international.uni-
 
 | Software | Links |
 |----------|-------|
+| CP2K | [Official website](https://www.cp2k.org/) | [Tutorials](https://www.cp2k.org/exercises:common:index) |[Manual](https://manual.cp2k.org/trunk/) |
 | Newton-X | [Official website](https://newtonx.org/) | [Tutorials](https://osf.io/w4dkc/)  | [Manual](https://www.univie.ac.at/newtonx/nx-docs-2_2.pdf) |
-| CP2k | [Official website](https://www.cp2k.org/) | [Tutorials](https://www.cp2k.org/exercises:common:index) |[Manual](https://manual.cp2k.org/trunk/) |
-
-
-
-
-
-
-
-
-
+| Libra | [Official website](https://github.com/Quantum-Dynamics-Hub/libra-code) | [Tutorials](https://github.com/compchem-cybertraining/Tutorials_Libra) | [Manual](https://quantum-dynamics-hub.github.io/libra/index.html) |
+| WaveMixings | [Official website](https://gitlab.com/apolionl/WaveMixings.jl) | [Reference](https://arxiv.org/pdf/2509.03917) |
 
