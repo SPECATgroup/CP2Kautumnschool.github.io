@@ -8,6 +8,8 @@ permalink: /venue/
 
 The autumn school will take place at the <a href="https://wissenschaftszentrumkiel.de">Wissenschaftszentrum</a> in Kiel, Fraunhoferstrasse 13, 24118 Kiel.
 
+![Alt text]({{ "/images/lecture_hall.jpg" | relative_url }}) ![Alt text]({{ "/images/lobby.jpg" | relative_url }})
+
 The campus map of Christian-Albrechts-University Kiel can be found <a href="https://www.uni-kiel.de/en/university/building-sites-campus-development/maps-directions">here</a>. The Wissenschaftszentrum is marked on the map
 next to the Wissenschaftspark. Note that the car park "Tesla-Haus" is right next to the event venue.
 
