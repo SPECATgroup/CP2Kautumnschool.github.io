@@ -7,12 +7,12 @@ layout: page
 ![Alt text]({{ "/images/logo.png" | relative_url }})
 
 
-## **International Autumn School CP2K-Newton-X-WaveMixings for mixed classical-quantum dynamics**
+## **International Autumn School CP2K-Newton-Libra-X-WaveMixings for mixed classical-quantum dynamics**
 
 ## About the Autumn School
 
 This autumn schools aims to give an overview on (non-)adiabatic mixed quantum-classical (excited-state) dynamics using the program packages
-<a href="https://www.cp2k.org">**CP2K**</a>, <a href="https://newtonx.org">**Newton-X**</a> and <a href="https://gitlab.com/apolionl/WaveMixings.jl">**WaveMixings**</a> to educate graduate students, postdocs, researchers, and educators working in the field of
+<a href="https://www.cp2k.org">**CP2K**</a>, <a href="https://newtonx.org">**Newton-X**</a>, <a href="https://github.com/Quantum-Dynamics-Hub/libra-code">**Libra**</a> and <a href="https://gitlab.com/apolionl/WaveMixings.jl">**WaveMixings**</a> to educate graduate students, postdocs, researchers, and educators working in the field of
 computational chemistry. 
 Focus of the autumn school is to complement **expert-led lectures** covering the underlying theory with practical **hands-on training** on cutting-edge HPC systems. Participants will be given the opportunity to present own research and network with leading scientists during the **poster session**. 
 
@@ -49,13 +49,14 @@ The current schedule may be changed. Please check for updates.
 | Name            | Affiliation         |
 | --------------- | ------------------- |
 | [Prof. Mario Barbatti](https://barbatti.org/about/) | University Aix-Marseille, France |
+  [Prof. Alexey Akimov] (https://arts-sciences.buffalo.edu/chemistry/faculty/faculty-directory/akimov.html) | Buffalo University, U.S. |
 | [Dr. Philipp Schienbein](https://schienbein.eu) | Ruhr-University Bochum, Germany |
 | [Dr. Ritama Kar](https://barbatti.org/about/)      |   University Aix-Marseille, France (Group M. Barbatti) |
 | [Dr. Rafael S. Mattos ](https://barbatti.org/about/)   | University Aix-Marseille, France (Group M. Barbatti) |
 | [Dr. Stepán Marek](https://www.uni-regensburg.de/en/physics/wg/computational-electronic-structure-theory/team/stepan-marek) | University Regensburg, Germany (Group J. Wilhelm) |
 | [Dr. Luis Vasquez](https://scholar.google.com/citations?user=KG6dxGcAAAAJ&hl=en) | Hangzhou Dianzi University, China (Group M. Gelin) |
-| [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
 | [Dr. Ole Schütt](https://ole.schuett.name) | CP2KLab, Zurich, Switzerland |
+| [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
 
 
 ## Ressources
@@ -63,6 +64,7 @@ The current schedule may be changed. Please check for updates.
 | Software | Links |
 |----------|-------|
 | Newton-X | [Official website](https://newtonx.org/) | [Tutorials](https://osf.io/w4dkc/)  | [Manual](https://www.univie.ac.at/newtonx/nx-docs-2_2.pdf) |
+| Libra | [Official website](https://github.com/Quantum-Dynamics-Hub/libra-code) | [Tutorials](https://github.com/compchem-cybertraining/Tutorials_Libra) | [Manual](https://quantum-dynamics-hub.github.io/libra/index.html) |
 | CP2K | [Official website](https://www.cp2k.org/) | [Tutorials](https://www.cp2k.org/exercises:common:index) |[Manual](https://manual.cp2k.org/trunk/) |
 
 
